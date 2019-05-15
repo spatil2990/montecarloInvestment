@@ -5,4 +5,6 @@ Build the application using below gradle command
 
 gradle clean build
 
-Main class:
+Run below Main class to see the results:
+
+MonteCarloApplication.java
